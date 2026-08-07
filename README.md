@@ -109,11 +109,11 @@ All test cases were executed successfully. The application correctly validated u
 
 **Name:**
 
-Amogh Angadi
+T Uday Kiran
 
 **Repository URL:**
 
-https://github.com/OneToucHA/preptrack-Amogh.git
+https://github.com/Uday-piratehunter/preptrack-Uday-kiran
 
 **My Main Contribution:**
 
